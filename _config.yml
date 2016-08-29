@@ -1,19 +1,4 @@
-name: null
-favicon: null
-layout_spectrum: 0.24262
 typography_spectrum: 0.37542
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#030303'
@@ -25,7 +10,20 @@ color:
   lightness: 0.5625
   saturation: 1
   rhythmicContrast: 0.75
-purpose:
-  - name: follow
-    item: null
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24262
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Spencer Connaughton
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Blog of Spencer Connaughton
+purpose: []
