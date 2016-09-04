@@ -1,12 +1,15 @@
 ---
-datePublished: '2016-09-01T22:22:58.087Z'
+datePublished: '2016-09-01T22:41:17.694Z'
 sourcePath: >-
   _posts/2016-08-28-what-will-the-future-be-like-to-imagine-what-the-past-was-l.md
 inFeed: true
 hasPage: true
-author: []
+author:
+  - name: Andrew Derr
+    url: >-
+      https://www.behance.net/gallery/26553993/HUD-Elements-futuristic-user-interface-templates
 via: {}
-dateModified: '2016-09-01T22:22:56.283Z'
+dateModified: '2016-09-01T22:41:17.056Z'
 title: The Interface of The Future
 publisher: {}
 description: What will it be like to live in the future?
@@ -16,8 +19,8 @@ _type: Article
 
 ---
 # The Interface of The Future
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0b1fab8-1462-488a-ad34-a597d43a7ed9.png)
 
 What will it be like to live in the future?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0b1fab8-1462-488a-ad34-a597d43a7ed9.png)
 
 To imagine what it was like to live in the past, we look at the tools people used, the things they painted and drew, and the thoughts they recorded in writing and passed down through stories.
