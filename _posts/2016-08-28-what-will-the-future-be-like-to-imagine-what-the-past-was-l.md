@@ -1,32 +1,41 @@
 ---
-datePublished: '2016-09-02T00:04:52.760Z'
+datePublished: '2016-09-02T02:50:04.904Z'
 sourcePath: >-
   _posts/2016-08-28-what-will-the-future-be-like-to-imagine-what-the-past-was-l.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T00:04:52.203Z'
-title: The Interface of The Future
+dateModified: '2016-09-02T02:50:04.415Z'
+title: .The Interface of The Future
 publisher: {}
 description: >-
-  What will it be like to live in the future? Exciting, dynamic, and
-  terrifyingly complicated.
+  What will it be like to live in the future? Exciting, dynamic…and terrifyingly
+  complicated?
 starred: true
 url: the-interface-of-the-future/index.html
 _type: Article
 
 ---
-# The Interface of The Future
+# .The Interface of The Future
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0b1fab8-1462-488a-ad34-a597d43a7ed9.png)
 
-What will it be like to live in the future? Exciting, dynamic, and terrifyingly complicated.
+What will it be like to live in the future? Exciting, dynamic...and terrifyingly complicated?
 
-To imagine what it was like to live in the past, we look at the tools people used, the things they painted and drew, and the thoughts they recorded in writing and passed down through stories. We can see that the lives of most of our ancestors largely consisted of manual labor, fighting, and praying. There is a certain brutal elegance to designed objects from the pre-modern world. They suggest that, once upon a time, it took no special training to be human. To solve any problem meant simply to pick up the right tool.
-![The interface of the past](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a0d409a-e665-40ae-ac22-5a55d72e7f7d.png)
+My first job after college involved designing and building dozens of software tech demos. One day, my boss asked me to make a tech demo that felt "futuristic". Surely other designers had solved this problem before, so I typed "futuristic interface" into Google Image Search for inspiration. [Try it yourself!][0] You might notice something quite funny:
 
-The world is no longer so simple. More complicated problems seem to call for more complicated tools, and the 20th century produced no shortage of them. 
+In my mind, here is what these interfaces tell us about the future:
 
-Cover image credit: [Andrew Derr][0]
+* **The future is stressful.** We will be working with so much information so quickly that we'll need to have it all in view, all the time.
+* **The future is monotonous.** Future humans will not have any appreciation for any colors besides blue. So future designers will make most interfaces blue.
+* **The future is complicated.** So complicated that the only way to represent certain information is in highly detailed, mostly circular, [constantly shifting][1] viziualizations. Only highly trained savants will be able to live there. 
 
-[0]: https://www.behance.net/gallery/26553993/HUD-Elements-futuristic-user-interface-templates "Andrew Derr"
+Initially, I was surprised that so many designers feel that this is the future we are headed towards. If you ask most designers about their principles, you'll hear something along the lines of "keep it simple". Good designers know that success of many software products is due, in large part, to their simplicity. The best designers of our era are best known for making products simpler, cutting out process steps, and making users feel in control, rather than overwhelmed. <Insert obligatory iPhone reference here\>. So why do they feel that future designers will go in the opposite direction and make products more complicated?
+
+Thinking about this question more deeply, I realized that designers don't feel this way at all: customers do!
+
+Cover image credit: [Andrew Derr][2]
+
+[0]: https://www.google.com/search?q=futuristic+interface&client=safari&rls=en&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj11Niixe_OAhVQ2WMKHWNfDEoQsAQIHQ&biw=1435&bih=1193
+[1]: https://vimeo.com/116237431
+[2]: https://www.behance.net/gallery/26553993/HUD-Elements-futuristic-user-interface-templates "Andrew Derr"
