@@ -4,7 +4,7 @@
         <description><![CDATA[Spencer Connaughton]]></description>
         <link>https://thegrid.ai/spencer-connaughton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:52:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spencer-connaughton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[.The Interface of The Future]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 02 Sep 2016 02:50:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Spring in DC]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/326956cb457007b29b511833f73bf63907f70929.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/603138bf-3318-451d-be77-93a065ae1058.jpg</link>
+            <guid isPermaLink="false">bf565e98-f18b-4a63-ae36-01ee3a82b8c0</guid>
+            <pubDate>Fri, 02 Sep 2016 02:50:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db95dfe14169af645c51cbdb88f9cd1175701ef5.jpg">]]></description>
             <link>https://thegrid.ai/spencer-connaughton/803eb4e7-58fe-42c6-aba6-131ef65c0fb9/index.html</link>
             <guid isPermaLink="false">803eb4e7-58fe-42c6-aba6-131ef65c0fb9</guid>
             <pubDate>Sun, 28 Aug 2016 05:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spring in DC]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/603138bf-3318-451d-be77-93a065ae1058.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/603138bf-3318-451d-be77-93a065ae1058.jpg</link>
-            <guid isPermaLink="false">bf565e98-f18b-4a63-ae36-01ee3a82b8c0</guid>
-            <pubDate>Wed, 10 Feb 2016 01:28:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
