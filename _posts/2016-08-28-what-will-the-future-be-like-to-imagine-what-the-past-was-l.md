@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T22:08:39.726Z'
+datePublished: '2016-09-02T22:11:14.696Z'
 sourcePath: >-
   _posts/2016-08-28-what-will-the-future-be-like-to-imagine-what-the-past-was-l.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T22:08:39.339Z'
+dateModified: '2016-09-02T22:11:14.147Z'
 title: The Interface of The Future
 publisher: {}
 description: >-
@@ -33,7 +33,7 @@ In my mind, here is what these interfaces tell us about the future:
 
 Initially, I was surprised that so many designers feel that this is the future we are headed towards. If you ask most designers about their principles, you'll hear something along the lines of "keep it simple". Good designers know that success of many software products is due, in large part, to their simplicity. The best designers of our era are best known for making products simpler, cutting out process steps, and making users feel in control, rather than overwhelmed. <Insert obligatory iPhone reference here\>. So why do some designers feel that future designers will go in the opposite direction and make products more complicated?
 
-Thinking about this question more deeply, I realized that designers don't feel this way at all: customers do. When you ask a designer to "make something that feels \_\_\_\_\_" what you're really asking is "make somethat feels \_\_\_\_\_ \[to me\]". 
+Thinking about this question more deeply, I realized that designers don't feel this way at all: customers do. When you ask a designer to "make something that feels \_\_\_\_\_" what you're really asking is "make somethat feels \_\_\_\_\_ \[to me\]".
 
 Cover image credit: [Andrew Derr][2]
 
